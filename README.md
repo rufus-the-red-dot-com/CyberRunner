@@ -1,9 +1,9 @@
 🌃 THE MISSIONNavigate the rain-slicked streets of Slums North as Rufus, a red-haired runner caught between a failing
-<br>
+
 system kernel and high-stakes corporate warfare. Push your 4-color palette to the absolute edge.
 <br>
 🛠️ OS FEATURES📡 STATIC-TERMINAL UI: A custom HUD tracking your $STR, $CON, and $LUC in real-time.
-<br>
+
 🔫 TACTICAL KINETICS: Top-down projectile combat with custom "Reload" cooldown logic.
 <br>
 📟 KERNEL PANIC LOGIC: Intentional system "crashes" and VRAM glitches that blur the line between game and hardware failure.
