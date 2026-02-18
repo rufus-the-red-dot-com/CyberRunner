@@ -19,3 +19,4 @@
 📜: System specs and playing manuals for the Seattle underworld.
 <br>
 ⚡ HARDWARE SPECSEngine: GB Studio 4.1.3 (Modified Kernel).Format: .gb (Original Game Boy / DMG).ROM Size: 256KB of pure neon and grit.
+Don't listen to any of this i used ai to make it look proffesional and it makese zero sense. 
