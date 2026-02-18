@@ -2,13 +2,16 @@
 system kernel and high-stakes corporate warfare. Push your 4-color palette to the absolute edge.
 <br>
 🛠️ OS FEATURES📡 STATIC-TERMINAL UI: A custom HUD tracking your $STR, $CON, and $LUC in real-time.
+<br>
 🔫 TACTICAL KINETICS: Top-down projectile combat with custom "Reload" cooldown logic.
 <br>
 📟 KERNEL PANIC LOGIC: Intentional system "crashes" and VRAM glitches that blur the line between game and hardware failure.
 <br>
 💾 SCENE-STACK PERSISTENCE: Move from the street to your deck without losing your $\{X, Y\}$ coordinates.
 <br>
-📂 THE VAULT (ROMs ONLY)/Builds 🚀: Production-ready .gb binaries for DMG hardware./Prototypes 
+📂 THE VAULT (ROMs ONLY)/Builds 
+(br>
+🚀: Production-ready .gb binaries for DMG hardware./Prototypes 
 <br>
 🧪: Experimental builds testing the "Stats OS" and "Glitch" sequences./Docs 
 <br>
