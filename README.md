@@ -10,7 +10,7 @@ system kernel and high-stakes corporate warfare. Push your 4-color palette to th
 💾 SCENE-STACK PERSISTENCE: Move from the street to your deck without losing your $\{X, Y\}$ coordinates.
 <br>
 📂 THE VAULT (ROMs ONLY)/Builds 
-(br>
+<br>
 🚀: Production-ready .gb binaries for DMG hardware./Prototypes 
 <br>
 🧪: Experimental builds testing the "Stats OS" and "Glitch" sequences./Docs 
