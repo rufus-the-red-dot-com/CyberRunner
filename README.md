@@ -1,5 +1,4 @@
-🌃 THE MISSIONNavigate the rain-slicked streets of Slums North as Rufus, a red-haired runner caught between a failing
-system kernel and high-stakes corporate warfare. Push your 4-color palette to the absolute edge.
+🌃 THE MISSIONNavigate the rain-slicked streets of Slums North as Rufus, a red-haired runner caught between a failing system kernel and high-stakes corporate warfare. Push your 4-color palette to the absolute edge.
 <br>
 🛠️ OS FEATURES📡 STATIC-TERMINAL UI: A custom HUD tracking your $STR, $CON, and $LUC in real-time.
 <br>
